@@ -32,8 +32,8 @@ Make sure you have Node.js installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Srihithavuppula/finance-dashboard.git
-   cd finance-dashboard
+   git clone https://github.com/Srihithavuppula/Spendly.git
+   cd Spendly
    ```
 
 2. **Install dependencies:**
