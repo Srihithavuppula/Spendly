@@ -21,15 +21,16 @@ A stunning, highly professional personal finance dashboard built with React and 
 - **Icons:** Custom Inline Heroicons/Lucide SVGs
 - **State Management:** React Context API
 
+
+### LiveLink
+ https://spendly-two-pi.vercel.app/
+
 ## 🚀 Getting Started
 
 Follow these instructions to run the application locally on your machine.
 
 ### Prerequisites
 Make sure you have Node.js installed.
-
-### LiveLink
- https://spendly-two-pi.vercel.app/
 
 ### Installation
 
